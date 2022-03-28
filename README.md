@@ -1,2 +1,4 @@
-# Exercicios Python
- Exercícios resolvidos de Python
+# Exercícios Python!
+ Exercícios resolvidos de Python.
+
+ Repositório criado durante meu treinamento em Python.
